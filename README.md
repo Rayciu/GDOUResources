@@ -14,7 +14,7 @@
 
 欢迎各位对仓库内容进行补充，比如没有该项目，或者授课老师更换，试卷不再适用，内容有误等等。
 
-Fork本仓库，然后在Add files-Upload files进行文件上传到fork的仓库，然后在pull-requests中发起请求,**上传的文件中不要包含学生姓名**。PPT课件等不需要上传，基本上班级内都有。
+Fork本仓库，然后在Add files-Upload files进行文件上传到自己fork的仓库，然后在contribute发送PR,**上传的文件中不要包含学生姓名**。PPT课件等不需要上传，基本上班级内都有。
 
 ## Warning
 
